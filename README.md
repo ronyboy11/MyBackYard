@@ -1,2 +1,2 @@
 # MyBackYard
-sit a hello for a new begainning
+set a hello for a new begainning
